@@ -1,0 +1,6 @@
+{
+  "token": "telegram bot token goes here",
+  "download_dir": "relative or absolute path",
+  "notification_single": "Received & downloaded your pic",
+  "notification_plural": "Received & downloaded your %d pics"
+}
